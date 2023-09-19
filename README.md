@@ -5,6 +5,8 @@ Modules, locals, variables and more.
 
 # Step-by-Step to generate the Workspace
 
+Make sure to use your own credentials on root "variables.tf" file. 
+
 ## 1. 
 
     terraform init
@@ -23,9 +25,6 @@ Modules, locals, variables and more.
 - Miniconda: <https://docs.conda.io/en/latest/miniconda.html>
 - Terraform: <https://developer.hashicorp.com/terraform/downloads>
 
-## Deploy with Terraform
-
-Make sure to use your own credentials on root "variables.tf" file. 
 
 ## Relevant Links
 
