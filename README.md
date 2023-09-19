@@ -5,17 +5,17 @@ Modules, locals, variables and more.
 
 # Step-by-Step to generate the Workspace
 
-1. 
+## 1. 
 
-terraform init
+    terraform init
 
-2. 
+## 2. 
 
-terraform plan
+    terraform plan
 
-3. 
+## 3. 
 
-terraform apply
+    terraform apply
 
 
 ## Requirements
